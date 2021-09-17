@@ -30,8 +30,9 @@ https://www.thingiverse.com/thing:4935312
 On the printer, click on About Printer > Printer Info
 
 ## What to do next?
+* Initialize EEPROM (Configuration > Advanced Settings > Initialize EEPROM)
 * Restore all settings to their default values (Configuration > Restore Defaults)
-* Update the Z offset (Configuration > Probe Z Offset). This is the distance between the probe tripping point and the tip of the nozzle. The expected value should be between -2.0 mm and -4.0 mm.
+* Update the Z offset (Configuration > Probe Z Offset). This is the distance between nozzle and the probe tripping point. The expected value should be between -2.0 mm and -4.0 mm.
 * [Optional] Enable firmware retractions (Configuration > Retract > Auto-Retract) and adjust retraction settings as needed
 * Save the current configuration in EEPROM (Configuration > Store Settings)
 * Enjoy some good old retro games! (About Printer > Games)
