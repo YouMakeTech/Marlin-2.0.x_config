@@ -12,9 +12,6 @@ Use at you own risk!
 * BondTech BMG extruder
 * BLTouch Auto Bed Leveling sensor (Connected to the dedicated 5 pins connector of the Creality V4.2.7 board, not to the Z min stop pins)
 
-## 3D-printed parts
-https://www.thingiverse.com/thing:4935312
-
 ## How to compile & build?
 * Download the Marlin source code (https://marlinfw.org/meta/download/ or https://github.com/MarlinFirmware/Marlin)
 * Overwrite the default configuration files in the Marlin directory (Configuration.h, Configuration_adv.h etc.) with the files provided
