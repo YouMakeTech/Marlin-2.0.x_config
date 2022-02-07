@@ -7,7 +7,7 @@ Use at you own risk!
 ## Configuration
 * Ender 3 Pro
 * Creality V4.2.7 mainboard
-* Marlin 2.0.9.1 firmware
+* Marlin 2.0.9.3 firmware
 * E3D V6 hotend
 * BondTech BMG extruder
 * BLTouch Auto Bed Leveling sensor (Connected to the dedicated 5 pins connector of the Creality V4.2.7 board, not to the Z min stop pins)
