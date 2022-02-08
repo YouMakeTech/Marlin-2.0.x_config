@@ -5,8 +5,8 @@ These files are specific to my setup and are provided for educational purposes o
 Use at you own risk!
 
 ## Configuration
-* Ender 3 Pro
-* Creality V4.2.7 mainboard
+* Ender 3 Pro or Ender 3 V2
+* Creality V4.2.2 or V4.2.7 mainboards
 * Marlin 2.0.9.3 firmware
 * E3D V6 hotend
 * BondTech BMG extruder
