@@ -6,7 +6,7 @@ Use at you own risk!
 
 ## Configuration
 * Ender 3 Pro or Ender 3 V2
-* Creality V4.2.2 or V4.2.7 mainboards
+* Creality V4.2.2 or V4.2.7 mainboards or BigTreeTech SKR Mini E3 3.0
 * Marlin 2.0.9.3 firmware
 * E3D V6 hotend
 * BondTech BMG extruder
@@ -20,7 +20,7 @@ Use at you own risk!
 * Compile & Build Marlin with a single click using the Auto Build Marlin extension (see see https://marlinfw.org/docs/basics/auto_build_marlin.html)
 
 ## How to install?
-* Copy the firmware binary (e.g. .pio/build/STM32F103RET6_creality/firmware-20210906-101846.bin) to the root directory of an SD card. Make sure you use always a new filename!
+* Copy the firmware binary (e.g. .pio/build/STM32F103RET6_creality/firmware-20210906-101846.bin) to the root directory of an SD card. Make sure you use always a new filename! (Note: For the BigTreeTech SKR Mini E3 mainboard, always rename the firmware binary to "firmware.bin")
 * Insert the SD card into your printer and power it on. This should update the firmware with the binary provided
 
 ## How to check the firmware version?
