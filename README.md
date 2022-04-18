@@ -5,7 +5,7 @@ These files are specific to my setup and are provided for educational purposes o
 Use at you own risk!
 
 ## Configuration
-* Ender 3 Pro or Ender 3 V2
+* Ender 3 Pro or Ender 3 V2 or Ender 5 Pro
 * Creality V4.2.2 or V4.2.7 mainboards or BigTreeTech SKR Mini E3 3.0
 * Marlin 2.0.9.3 firmware
 * E3D V6 hotend
